@@ -15,4 +15,4 @@ Once the instliation is complete
 ~/catkin_ws roslaunch praneel_visual praneel_visual.launch 
 
 
-
+Will definetly would rename to something generic once testing is complete.
